@@ -1,0 +1,6 @@
+﻿  MenedzerHasel.cpp
+E:\urgh\sem 3\PJC - bez egzaminu\PROJEKT\2223Z_win_PJC_s20244\MenedzerHasel.cpp(15,22): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+E:\urgh\sem 3\PJC - bez egzaminu\PROJEKT\2223Z_win_PJC_s20244\MenedzerHasel.cpp(16,22): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+E:\urgh\sem 3\PJC - bez egzaminu\PROJEKT\2223Z_win_PJC_s20244\MenedzerHasel.cpp(344,2): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+E:\urgh\sem 3\PJC - bez egzaminu\PROJEKT\2223Z_win_PJC_s20244\MenedzerHasel.cpp(498,14): warning C4267: "argument": konwersja z "size_t" do "const int", możliwa utrata danych
+  PROJEKT.vcxproj -> E:\urgh\sem 3\PJC - bez egzaminu\PROJEKT\2223Z_win_PJC_s20244\x64\Debug\PROJEKT.exe
